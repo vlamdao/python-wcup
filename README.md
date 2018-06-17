@@ -1,7 +1,7 @@
 # python-wcup
 Small scipt to get world cup 2018 scores
 
-![](images/preview.png?raw=true)
+![](images/today.png?raw=true)
 ## Install
 ```
 git clone git@github.com:vlamdao/python-wcup.git wcup

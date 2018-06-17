@@ -1,3 +1,3 @@
 #!/bin/bash
-source ./env/bin/activate
-python ./src/main.py $1
+source /home/lamdv/dev.workspace/wcup/env/bin/activate
+python /home/lamdv/dev.workspace/wcup/src/main.py $1
