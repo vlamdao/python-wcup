@@ -1,5 +1,5 @@
 # python-wcup
-Small scipt to get world cup 2018 scores
+Small script to get world cup 2018 scores
 
 ![](images/today.png?raw=true)
 ## Install
